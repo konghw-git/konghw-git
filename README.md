@@ -51,4 +51,4 @@
   <img alt="contribution snake" src="https://raw.githubusercontent.com/konghw-git/konghw-git/output/github-snake.svg">
 </picture>
 
-<sub>头像：大肥鱼／鲸鱼娘，原始角色形象「上善无形」，DeepSeek 女仆形象二次设计「ZipZipPipe」，Q 版设定图参考「YunYueSama」（[codex-deepseek-pet](https://github.com/YunYueSama/codex-deepseek-pet)），AI 辅助改编与设定图「xiaoweigen」（[deepseek-dafeiyu-assets](https://github.com/xiaoweigen/deepseek-dafeiyu-assets)）。本头像裁自其 `base-six-views.png` 正面视图，许可 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。非官方同人形象，与 DeepSeek 无关。</sub>
+<sub>头像：用自部署的文生图模型生成的大肥鱼／鲸鱼娘同人图。角色原始形象「上善无形」，DeepSeek 女仆形象二次设计「ZipZipPipe」（[Pixiv](https://www.pixiv.net/artworks/148186519)，CC BY-NC-SA 4.0）。非官方同人形象，与 DeepSeek 无关。</sub>
