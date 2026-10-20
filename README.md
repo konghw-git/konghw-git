@@ -23,11 +23,11 @@
 ## 作品 · Projects
 
 <a href="https://github.com/konghw-git/OpenAssetBoard">
-  <img src="https://raw.githubusercontent.com/konghw-git/OpenAssetBoard/main/docs/images/banner.webp" width="100%" alt="强者之路 · OpenAssetBoard">
+  <img src="https://raw.githubusercontent.com/konghw-git/OpenAssetBoard/main/docs/images/banner.webp" width="100%" alt="日盈 Gain · OpenAssetBoard">
 </a>
 
-**[强者之路 · OpenAssetBoard](https://github.com/konghw-git/OpenAssetBoard)** — 本地优先的 Android 资产看板 + 待办 + 日记。一次盘点 60 秒看清净资产，Things 3 式待办，一天一篇的纯文字日记。Kotlin · Jetpack Compose · Room，185 个单元测试。<br>
-<sub>A local-first Android app: net worth board, Things-style todos and a daily diary. Kotlin · Jetpack Compose · Room, 185 unit tests.</sub>
+**[日盈 Gain · OpenAssetBoard](https://github.com/konghw-git/OpenAssetBoard)** — 日日行动，日日有盈。本地优先的 Android 个人 App：资产看板 + 待办 + 日记 + 笔记。一次盘点 60 秒看清净资产，Things 3 式待办与可靠的到点提醒，一天一篇的日记和每周复盘，体重体脂记录。应用内在线更新。Kotlin · Jetpack Compose · Room，328 个单元测试。<br>
+<sub>Act every day, gain every day. A local-first Android app: net worth board, Things-style todos with reliable reminders, a daily diary with weekly reviews, notes and body metrics, updating itself from GitHub releases. Kotlin · Jetpack Compose · Room, 328 unit tests.</sub>
 
 ## 技术栈 · Stack
 
