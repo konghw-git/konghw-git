@@ -23,8 +23,10 @@
 ## 作品 · Projects
 
 <a href="https://github.com/konghw-git/OpenAssetBoard">
-  <img src="https://raw.githubusercontent.com/konghw-git/OpenAssetBoard/main/docs/images/banner.webp" width="100%" alt="日盈 Gain · OpenAssetBoard">
+  <img src="assets/rizing-banner-dark.webp" width="100%" alt="日盈 Gain · OpenAssetBoard">
 </a>
+
+<img src="assets/rizing-overview-dark.webp" width="24%" alt="资产总览"> <img src="assets/rizing-todo-dark.webp" width="24%" alt="待办"> <img src="assets/rizing-diary-dark.webp" width="24%" alt="日记"> <img src="assets/rizing-notes-dark.webp" width="24%" alt="笔记">
 
 **[日盈 Gain · OpenAssetBoard](https://github.com/konghw-git/OpenAssetBoard)** — 日日行动，日日有盈。本地优先的 Android 个人 App：资产看板 + 记账 + 待办 + 日记 + 笔记。一次盘点 60 秒看清净资产，下拉即记一笔账，Things 3 式待办与可靠的到点提醒，可自定义的每日打卡，一天一篇的日记和每周复盘，体重与饮食热量记录。1.0 起换上暖色玻璃拟态界面与成套动效。应用内在线更新。Kotlin · Jetpack Compose · Room，541 个单元测试。<br>
 <sub>Act every day, gain every day. A local-first Android app: net worth board, quick bookkeeping, Things-style todos with reliable reminders, daily habits you set yourself, a daily diary with weekly reviews, notes, body metrics and calorie tracking. Since 1.0 it wears a warm glass interface with motion throughout, and it updates itself from GitHub releases. Kotlin · Jetpack Compose · Room, 541 unit tests.</sub>
